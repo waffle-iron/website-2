@@ -31,7 +31,7 @@ require_once($config['include_path'] . 'header.php');
                                 <strong>Session 1: Git Basics by Ramesh Dahiya. (11:00-12:00)</strong><br/><br/>
                                 Ramesh Dahiya is Tech. Lead at Ansh Systems.<br/>
                                 He will cover basics of Git in the presentation, so that git beginners can understand second session. This presentation will cover Most commonly used git commands, branches, tags, checking logs etc.<br/>
-                                Time: 45 minutes (11:00 to 11:45) followed by 15 minutes (11:45-12:00) questions and answers round. 
+                                Time: 45 minutes (11:00 to 11:45) followed by 15 minutes (11:45-12:00) questions and answers round.
                             </p>
                             <p>
                                 <strong>Session 2: Git workflow and advanced commands by Kapil Sharma (12:00-13:15)</strong><br/><br/>
@@ -74,7 +74,10 @@ require_once($config['include_path'] . 'header.php');
                         <br/><br/>
                         Among developers, Security is one of the most ignored topics. In this session, we will discuss some of the common security threats for a web application and how we can fix them.
                         <br/><br/>
-                        Web Security is technology/language independent topic and most of the session will not use any specific programming language. Thus any web developer is most invited to attend the event. However please note, towards the end, we will use simple PHP examples to demonstrate how can we practically take care of security issues. 
+                        Web Security is technology/language independent topic and most of the session will not use any specific programming language. Thus any web developer is most invited to attend the event. However please note, towards the end, we will use simple PHP examples to demonstrate how can we practically take care of security issues.
+                    </p>
+                    <p>
+                        <script async class="speakerdeck-embed" data-id="0679a310ee720131f5bc2ac9976b5d88" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
                     </p>
                 </div>
                 <div class="content_block_col2">

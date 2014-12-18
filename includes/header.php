@@ -1,7 +1,7 @@
 <body>
     <div id="header">
         <div class="container">
-            <h1 id="logo"><a href="<?= $config['site_url'] ?>"><img src="<?= $config['image_url']; ?>/logo.png"></a></h1>
+            <h1 id="logo"><a href="<?= $config['site_url'] ?>"><img src="<?= $config['image_url']; ?>/logo_phpreboot_100.png" height="70"></a></h1>
             <div id="main_menu">
                 <ul>
                     <li class="first_list"><a href="<?= $config['site_url'] ?>" class="main_menu_first <?PHP if(isset($page) && $page=='home') echo 'main_current'; ?>">home</a></li>
