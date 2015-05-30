@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP Reboot</title>
+    <description>PHP Reboot is an attempt to share news and new features of PHP and related technologies. We do this by sharing articles, news and tutorials through free PHP Reboot Magazine and blogs.</description>
+    <link>http://www.phpreboot.com//</link>
+    <atom:link href="http://www.phpreboot.com//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 May 2015 11:34:15 +0530</pubDate>
+    <lastBuildDate>Sat, 30 May 2015 11:34:15 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Setting up Laravel Elixir with Bootstrap</title>
+        <description>&lt;p&gt;Eric Barnes, on laravel-news.com, explained how to use elixr for defining basic gulp tasks.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One exciting feature coming in Laravel 5 is the new Elixir package. At its core it is a wrapper around gulp to make dealing with assets easier.
+&lt;br /&gt;&lt;br /&gt;
+For my first look at this new tool I decided a good use case would be to setup Bootstrap and get everything working just like you would in a real world scenario. If you are not familiar, bootstrap includes three main components. CSS, JavaScript, and custom fonts. So we need to account for all those in our setup.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 31 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/setting-laravel-elixr-bootstrap/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/setting-laravel-elixr-bootstrap/</guid>
+        
+        <category>Framework</category>
+        
+        <category>Laravel</category>
+        
+        <category>Laravel5</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Programming with Yii2</title>
+        <description>&lt;p&gt;Jeff Reifman, on tetsplus, posted a series of 10 posts where he described many Yii 2 features in details. Anyone learning Yii 2 must go through this series.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This tutorial will walk you through installing Yii 2.0, setting up your local development environment, building some sample applications, setting up your remote production environment for hosting and deploying your code from a GitHub repository.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 30 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/programming-with-yii2/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/programming-with-yii2/</guid>
+        
+        <category>Framework</category>
+        
+        <category>Yii</category>
+        
+        <category>Yii2</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>PHP versions statistics - October 2014</title>
+        <description>&lt;p&gt;Pascal Martin collected some interesting data about installed PHP versions on different servers and bloged with these statistics.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I have collected data and written about usage of each PHP versions a few times already — up until now, always in French: this is the first time I’m doing this in English. The first time I’ve done this was in September 2011 and the most recent one was almost one year ago, in November 2013. At that time, PHP 5.2 was still representing 34.4% of PHP installations, with PHP 5.3 ahead with 48.7%.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 29 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/php-versions-stats/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/php-versions-stats/</guid>
+        
+        <category>Statistics</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Easy Ways to Get Started with PHP on Vagrant</title>
+        <description>&lt;p&gt;On sitepoint, Aldo Ziflaj listed down 5 ways to get started with Vagrant.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Vagrant is a tool for creating and managing virtual environments that help many developers not have to care about the “works on my machine…” problem. Vagrant creates reusable development systems that can be used again and again, helping you keep your system clean of too many installations.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Wed, 29 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/5-ways-getting-started-vagrant/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/5-ways-getting-started-vagrant/</guid>
+        
+        <category>Devenv</category>
+        
+        <category>Vagrant</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Reduce number of queries</title>
+        <description>&lt;p&gt;On her blog, Anna Filina told about performance issues with lot of queries on each page and how to optimize them.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Customers often call me because their site is slow. One of the most common problems I found was a high number of queries that get executed for every single page hit. When I say a lot, I mean sometimes more than 1000 queries for a single page. This is often the case with a CMS which has been customized for the client’s specific needs.
+&lt;br /&gt;&lt;br /&gt;
+In this article, aimed at beginner to intermediate developers, I will explain how to figure out whether the number of queries might be a problem, how to count them, how to find spots to optimize and how to eliminate most of these queries. I will focus specifically on number of queries, otherwise I could write a whole tome. I’ll provide code examples in PHP, but the advice applies to every language.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 28 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/reduce-number-of-queries/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/reduce-number-of-queries/</guid>
+        
+        <category>Concept</category>
+        
+        <category>Optimization</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Working With a Laravel 4 + Angular Application</title>
+        <description>&lt;p&gt;Jesus Rodriguez, on angular-tips.com, posted a tutorial for integrating Angular JS with Laravel 4.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So you decided that Laravel is a great choice for a backend and that Angular is going to fit perfectly as the framework of choice for the frontend. Yeah! That is correct and I am starting to like you.
+&lt;br /&gt;&lt;br /&gt;
+How to start? So many question, so little time (someone said :P)&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 27 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/laravel-4-plus-angular/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/laravel-4-plus-angular/</guid>
+        
+        <category>Framework</category>
+        
+        <category>Laravel</category>
+        
+        <category>Laravel4</category>
+        
+        <category>Angular</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Symfony All The Things (Web)</title>
+        <description>&lt;p&gt;On his blog, Benjamin Eberlei posted his reasons of using Symfony for web development.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My Symfony Hello World post introduced the smallest possible example of a Symfony application. Using this in trainings helps the participants understand of just how few parts a Symfony application contains. Sure, there are lots of classes participating under the hood, but I don’t care about the internals only about the public API.
+&lt;br /&gt;&lt;br /&gt;
+We use microservice architectures for the bepado and PHP Profiler projects that Qafoo is working on at the monent. For the different components a mix of Symfony Framework, Silex, Symfony Components and our own Rest-Microframework (RMF) are used. This zoo of different solutions sparked a recent discussion with my colleague Manuel about when we would want to use Symfony for a web application.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 26 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/symfony-all-the-things-web/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/symfony-all-the-things-web/</guid>
+        
+        <category>Framework</category>
+        
+        <category>Symfony</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>The PHP Security Advisories Database</title>
+        <description>&lt;p&gt;Fabien Potencier blogged about &lt;code&gt;PHP Security Advisories Database&lt;/code&gt; and how to use that in your symfony and other PHP projects.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A year and a half ago, I was very proud to announce a new initiative to create a database of known security vulnerabilities for projects using Composer. It has been a great success so far; many people extended the database with their own advisories. As of today, we have vulnerabilities for Doctrine, DomPdf, Laravel, SabreDav, Swiftmailer, Twig, Yii, Zend Framework, and of course Symfony (we also have entries for some Symfony bundles like UserBundle, RestBundle, and JsTranslationBundle.)
+&lt;br /&gt;&lt;br /&gt;
+The security checker is now included by default in all new Symfony project via sensiolabs/SensioDistributionBundle; checking vulnerabilities is as easy as it can get:&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 26 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/php-security-advisories-database/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/php-security-advisories-database/</guid>
+        
+        <category>Security</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Managing Changelogs With Chag</title>
+        <description>&lt;p&gt;On Linkedin, Michael Dowling published how to manage change logs of a project using his library &lt;code&gt;chag&lt;/code&gt;, which creates change logs based on &lt;code&gt;keepachangelog.com&lt;/code&gt; standards.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Open source projects often include some kind of changelog file that helps consumers of the project to be aware of any important changes that have been made between versions. The format and filename of a changelog typically varies from project to project; however, there’s some promising news… http://keepachangelog.com hopes to standardize how open source projects represent changelog files. I’ve recently begun modifying the changelog files of all of my projects to conform to this new changelog standard.
+&lt;br /&gt;&lt;br /&gt;
+I created chag, short for “changelog tag”, in order to automate the process of extracting changelog information from a project’s changelog file.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 26 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/managing-changelogs-with-chag/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/managing-changelogs-with-chag/</guid>
+        
+        <category>Library</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+      <item>
+        <title>Caching CakePHP 2.x routes</title>
+        <description>&lt;p&gt;Zumba Tech published a nice blog post where Juan Basso explained how they cached CakePHP routes to get better performance.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;At Zumba we are continuously looking for optimization in our applications. These optimizations help to reduce the server loads, consequently reducing the number of servers and saving money. Besides that, it gives a better user experience for the end user by serving content faster and in some cases saving on consumer bandwidth (specially for mobile users).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 26 Oct 2014 05:30:00 +0530</pubDate>
+        <link>http://www.phpreboot.com//magazine/october2014/cakephp-caching-routes/</link>
+        <guid isPermaLink="true">http://www.phpreboot.com//magazine/october2014/cakephp-caching-routes/</guid>
+        
+        <category>Framework</category>
+        
+        <category>Cakephp</category>
+        
+        <category>Routes</category>
+        
+        <category>Cache</category>
+        
+        
+        <category>october2014</category>
+        
+      </item>
+    
+  </channel>
+</rss>
